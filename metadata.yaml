@@ -1,0 +1,37 @@
+_repo: Nachttanze-der-Indianer_67067
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traven, B.
+    aliases:
+    - Wienecke, Albert Otto Max
+    - Torsvan, Berick Traven
+    - Feige, Hermann Albert Otto Max
+    - Marut, Ret
+    - Croves, Hal
+    birthdate: 1882
+    deathdate: 1969
+    gutenberg_agent_id: '53904'
+    url: http://www.gutenberg.org/2009/agents/53904
+    wikipedia:
+    - https://de.wikipedia.org/wiki/B._Traven
+    - https://en.wikipedia.org/wiki/B._Traven
+description: ''
+gutenberg_issued: '2022-01-01'
+identifiers:
+  gutenberg: '67067'
+language: de
+pgterms:marc904: https://digi.ub.uni-heidelberg.de/diglit/bfa1927
+pgterms:marc905: 20211224224759traven
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: Jens Sadowski. This file was produced from images made available
+  by Heidelberg University.
+publication_note: Germany :Union Deutsche Verlagsgesellschaft,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Nachttänze der Indianer
+url: http://www.gutenberg.org/ebooks/67067
